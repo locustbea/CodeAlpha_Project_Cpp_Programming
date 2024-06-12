@@ -21,7 +21,7 @@ This is a simple number guessing game written in C++. In this game, the computer
 
 ## Installation
 
-1. Clone the repository or download the source code from 
+1. Clone the repository or download the source code from https://github.com/locustbea/CodeAlpha_Project_Cpp_Programming 
 2. Open a terminal or command prompt and navigate to the directory containing the source code.
 
 ## Compilation
